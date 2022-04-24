@@ -13,15 +13,15 @@ I am create widgets that I know I am going to used more then once in beginning o
 I can change main style of application easily and help the other developers to do not duplicate one
 code.
 
-## Third party library
-
-list of lib that I added on project
-
 ## Theme
 
 for most of the widget and colors that design wants, I implement theme on theme section of
 application , for example :
 check box design icon and background colors and etc
+
+## Third party library
+
+list of lib that I added on project
 
 ### percent_indicator
 
